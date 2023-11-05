@@ -1,7 +1,6 @@
 # DANote
 
-### **Contents**
-***READ THE MARKDOWN FILES***  
+### **Contents** ***READ THE MARKDOWN FILES***  
 
 ---
 [Chapter1 Basic of R](https://github.com/KatouMegumii/RNote/blob/master/RNote1%5BBasic%20of%20R%5D.md)  
