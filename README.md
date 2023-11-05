@@ -4,7 +4,9 @@
 
 [Chapter0 基础知识](https://github.com/KatouMegumii/DANote/blob/main/SQL0-Foundation.md)
 
-[Chapter1 SELECT](https://github.com/KatouMegumii/DANote/blob/main/SQL1-SELECT.md) 
+[Chapter1 检索和排序](https://github.com/KatouMegumii/DANote/blob/main/SQL1-SELECT.md) 
+
+[Chapter2 筛选](https://github.com/KatouMegumii/DANote/blob/main/SQL2-WHERE.md) 
 
 ---
 #### Python Notes
