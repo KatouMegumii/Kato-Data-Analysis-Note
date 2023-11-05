@@ -20,7 +20,7 @@ SELECT DISTINCT column_name1 column_name2 FROM dataset
 
 可以指定从某处起的检索，比如`OFFSET 5`就是从第5行起（6-10行）数据，注意检索是从第0行开始的，如果想要从第一行开始检索应当使用`OFFSET 0`而非`OFFSET 1`，后者是从第2行起
 
-在`MySQL	`中，可以使用简化的`LIMIT`子句，如`LIMIT 3,4`，其相当于`LIMIT 4 OFFSET 3`
+在`MySQL`中，可以使用简化的`LIMIT`子句，如`LIMIT 3,4`，其相当于`LIMIT 4 OFFSET 3`
 
 ```SQL
 SELECT column_name FROM dataset LIMIT 5
