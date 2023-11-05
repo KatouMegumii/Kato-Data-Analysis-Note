@@ -73,8 +73,3 @@ SELECT prod_id, prod_price, prod_name FROM Products ORDER BY prod_price DESC, pr
 在字典（dictionary）排序顺序中，A 被视为与 a 相同，这是大多数数据库管理系统的默认行为。但是，许多 DBMS 允许数据库管理员在需要时改变这种行为（如果你的数据库包含大量外语字符，可能必须这样做
 
 这里的关键问题是，如果确实需要改变这种排序顺序，用简单的 `ORDER BY` 子句可能做不到。你必须请求数据库管理员的帮助
-
-#### 4. `WHERE`子句
-
-按照指定条件筛选行
-
