@@ -1,7 +1,5 @@
 # DANote
 
-### **Contents** ~~***READ THE MARKDOWN FILES***~~
-
 ### SQL Notes
 
 [Chapter1 SELECT](https://github.com/KatouMegumii/DANote/blob/main/SQL1-SELECT.md) 
