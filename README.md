@@ -7,11 +7,11 @@ If you seek for notes on R, please check [RNote](https://github.com/KatouMegumii
 
 ### SQL Notes
 
-[Chapter0 基础知识](https://github.com/KatouMegumii/DANote/blob/main/SQL0-Foundation.md)
+[Chapter0 基础知识](https://github.com/KatouMegumii/DANote/blob/main/SQL/SQL0-Foundation.md)
 
-[Chapter1 检索和排序](https://github.com/KatouMegumii/DANote/blob/main/SQL1-SELECT.md) 
+[Chapter1 检索和排序](https://github.com/KatouMegumii/DANote/blob/main/SQL/SQL1-SELECT.md) 
 
-[Chapter2 筛选](https://github.com/KatouMegumii/DANote/blob/main/SQL2-WHERE.md) 
+[Chapter2 筛选](https://github.com/KatouMegumii/DANote/blob/main/SQL/SQL2-WHERE.md) 
 
 ---
 ### Python Notes
