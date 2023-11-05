@@ -1,4 +1,7 @@
-## DANote
+### DANote
+Notes on SQL and Python (pandas, numpy and ...) 
+If you seek for notes on R, please check [RNote](https://github.com/KatouMegumii/RNote)
+
 ---
 
 ### SQL Notes
@@ -11,6 +14,8 @@
 
 ---
 ### Python Notes
+
+~~wait for update~~
 
 ---
 ### **References** 
