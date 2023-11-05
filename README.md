@@ -1,4 +1,5 @@
-# DANote
+## DANote
+---
 
 ### SQL Notes
 
@@ -9,7 +10,7 @@
 [Chapter2 筛选](https://github.com/KatouMegumii/DANote/blob/main/SQL2-WHERE.md) 
 
 ---
-#### Python Notes
+### Python Notes
 
 ---
 ### **References** 
